@@ -10,8 +10,10 @@ CUDA를 이용한 병렬프로그래밍 - Histogram Equalization
 ![슬라이드5](https://user-images.githubusercontent.com/76520025/116523702-7789f480-a911-11eb-9172-f5a29a6bcccb.JPG)
 
 
-# 설계
+# 결과
 
 ![슬라이드17](https://user-images.githubusercontent.com/76520025/116523703-78228b00-a911-11eb-99e0-651d70258e1f.JPG)
 
 ![슬라이드18](https://user-images.githubusercontent.com/76520025/116523705-78bb2180-a911-11eb-9aee-34cfcfb46112.JPG)
+
+https://www.youtube.com/watch?v=ND2n_fHTnLU
