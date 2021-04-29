@@ -2,7 +2,7 @@
 CUDA를 이용한 병렬프로그래밍 - Histogram Equalization
 
 # 전체과정
-<iframe width="925" height="520" src="https://www.youtube.com/embed/ND2n_fHTnLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.https://www.youtube.com/watch?v=ND2n_fHTnLU)](https://www.youtube.com/watch?v=ND2n_fHTnLU)
 
 
 # 개요
