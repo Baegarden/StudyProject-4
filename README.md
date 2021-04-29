@@ -1,5 +1,5 @@
 # StudyProject-4
-CUDA를 이용한 병렬프로그래밍 - Histogram Equalization<br/><br/>
+### CUDA를 이용한 병렬프로그래밍 - Histogram Equalization<br/><br/>
 
 # 전체과정
 https://www.youtube.com/watch?v=ND2n_fHTnLU<br/><br/>
